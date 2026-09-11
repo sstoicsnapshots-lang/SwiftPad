@@ -45,3 +45,7 @@ solo, from-scratch project; if that changes, it'll say so here.
 
 The app is provided as-is, free to use. See the in-app **About SwiftPad**
 for version and credits.
+
+
+https://github.com/user-attachments/assets/8e14061d-d4b7-4e21-9787-8d976054e17a
+
