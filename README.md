@@ -1,4 +1,4 @@
-<p align="center"><img src="swiftpad.png" width="140" alt="SwiftPad app icon — a spiral-bound notepad"></p>
+<p align="center"><img src="app-icon.png" width="140" alt="SwiftPad app icon"></p>
 
 <h1 align="center">SwiftPad</h1>
 <p align="center">A native macOS notepad — light, fast, and built to feel like Apple shipped it.</p>
@@ -25,8 +25,7 @@ not just the text you're typing.
 ## Install
 
 1. Download the latest `SwiftPad-*.dmg` from
-   [Releases](https://github.com/).
-   <!-- TODO: swap in the real repo path once this is pushed to GitHub -->
+   [Releases](https://github.com/sstoicsnapshots-lang/SwiftPad/releases/latest).
 2. Open it and drag **SwiftPad** into **Applications**.
 3. First launch: **right-click SwiftPad ▸ Open**, then confirm. (macOS
    Gatekeeper does this once for any app outside the Mac App Store that
