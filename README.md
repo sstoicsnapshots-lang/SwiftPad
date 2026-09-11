@@ -47,5 +47,8 @@ The app is provided as-is, free to use. See the in-app **About SwiftPad**
 for version and credits.
 
 
-https://github.com/user-attachments/assets/8e14061d-d4b7-4e21-9787-8d976054e17a
+
+
+https://github.com/user-attachments/assets/b7443bb0-66f3-4634-b524-e10e35d75b35
+
 
