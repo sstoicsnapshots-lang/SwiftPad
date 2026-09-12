@@ -49,5 +49,7 @@ for version and credits.
 
 
 https://github.com/user-attachments/assets/b7443bb0-66f3-4634-b524-e10e35d75b35
+1.1
+<img width="640" height="360" alt="QuickSlice_Export" src="https://github.com/user-attachments/assets/24a600d5-29be-403e-96d2-a7dda8d669cf" />
 
 
